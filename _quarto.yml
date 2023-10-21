@@ -38,7 +38,7 @@ format:
     theme: cosmo
     code-fold: false
     css: custom.css
-    backgroundcolor: "#fff9f5"
+    backgroundcolor: "#fffcfa"
 
 execute:
   freeze: auto
