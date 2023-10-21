@@ -1,0 +1,44 @@
+project:
+  type: book
+
+book:
+  title: "AlgoToolsRBook"
+  author: "Dongyue Yu"
+  favicon: AlgoToolsR_rlogo.png
+  description: AlgoToolsR User Manual.
+  keyword: AlgoToolsR, Data Engineering, Data Visualization, Customizing Images in R, Mathematical Algorithms
+  url: https://sssydysss.github.io/AlgoToolsRBook/
+  date: "2023/10/18"
+  sidebar: 
+    background: "#ffe4d1"
+    logo: AlgoToolsR_rlogo.png
+    search: true
+  repo-url: https://github.com/SSSYDYSSS/AlgoToolsRBook
+  repo-branch: main
+  repo-actions: [edit, issue, source]
+  sharing: [twitter, facebook, linkedin]
+  image: AlgoToolsR_rlogo.png
+  comments:
+    giscus:
+      repo: SSSYDYSSS/AlgoToolsRBook
+  open-graph:
+    image: https://github.com/SSSYDYSSS/CodeAestheticsRBook/blob/main/AlgoToolsR_rlogo.png
+    description: R package AlgoToolsR.
+
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    code-fold: false
+    css: custom.css
+    backgroundcolor: "#fff9f5"
+
+execute:
+  freeze: auto
