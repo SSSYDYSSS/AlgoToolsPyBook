@@ -10,7 +10,7 @@ book:
   url: https://sssydysss.github.io/AlgoToolsRBook/
   date: "2023/10/18"
   sidebar: 
-    background: "#ffe4d1"
+    background: "#fdd9c7"
     logo: AlgoToolsR_rlogo.png
     search: true
   repo-url: https://github.com/SSSYDYSSS/AlgoToolsRBook
