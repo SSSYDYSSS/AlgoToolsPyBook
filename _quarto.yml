@@ -2,28 +2,28 @@ project:
   type: book
 
 book:
-  title: "AlgoToolsRBook"
+  title: "AlgoToolsPyBook"
   author: "Dongyue Yu"
-  favicon: AlgoToolsR_rlogo.png
-  description: AlgoToolsR User Manual.
-  keyword: AlgoToolsR, Data Engineering, Data Visualization, Customizing Images in R, Mathematical Algorithms
-  url: https://sssydysss.github.io/AlgoToolsRBook/
+  favicon: algotoolspy_pylogo.png
+  description: AlgoToolsPy User Manual.
+  keyword: AlgoToolsRy, Data Engineering, Data Visualization, Customizing Images in R, Mathematical Algorithms
+  url: https://sssydysss.github.io/AlgoToolsPyBook/
   date: "2023/10/18"
   sidebar: 
-    background: "#fdd9c7"
-    logo: AlgoToolsR_rlogo.png
+    background: "#fadad0"
+    logo: algotoolspy_pylogo.png
     search: true
-  repo-url: https://github.com/SSSYDYSSS/AlgoToolsRBook
+  repo-url: https://github.com/SSSYDYSSS/AlgoToolsPyBook
   repo-branch: main
   repo-actions: [edit, issue, source]
   sharing: [twitter, facebook, linkedin]
-  image: AlgoToolsR_rlogo.png
+  image: algotoolspy_pylogo.png
   comments:
     giscus:
-      repo: SSSYDYSSS/AlgoToolsRBook
+      repo: SSSYDYSSS/AlgoToolsPyBook
   open-graph:
-    image: https://github.com/SSSYDYSSS/CodeAestheticsRBook/blob/main/AlgoToolsR_rlogo.png
-    description: R package AlgoToolsR.
+    image: https://github.com/SSSYDYSSS/CodeAestheticsRBook/blob/main/algotoolspy_pylogo.png
+    description: R package AlgoToolsPy.
 
   chapters:
     - index.qmd
@@ -38,7 +38,7 @@ format:
     theme: cosmo
     code-fold: false
     css: custom.css
-    backgroundcolor: "#fffcfa"
+    backgroundcolor: "#fef9f7"
 
 execute:
   freeze: auto
