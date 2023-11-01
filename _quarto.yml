@@ -10,7 +10,7 @@ book:
   url: https://sssydysss.github.io/AlgoToolsPyBook/
   date: "2023/10/18"
   sidebar: 
-    background: "#fadad0"
+    background: "#f9dfd9"
     logo: algotoolspy_pylogo.png
     search: true
   repo-url: https://github.com/SSSYDYSSS/AlgoToolsPyBook
@@ -38,7 +38,7 @@ format:
     theme: cosmo
     code-fold: false
     css: custom.css
-    backgroundcolor: "#fef9f7"
+    backgroundcolor: "#fefbfa"
 
 execute:
   freeze: auto
